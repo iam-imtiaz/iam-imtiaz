@@ -8,9 +8,9 @@
 10+ years of IT MNC experience.
 
 
-<h1>Domains knowledge:</h1>
-1. Python Full Stack developer(FastAPI)
-2. Web and desktop application development
+<h3>Domains knowledge:</h3>
+1. Python Full Stack developer(FastAPI)<br>
+2. Web and desktop application development<br>
 3. Web automation using selenium
 4. Web scraping (Selenium, Scrapy and splash)
 5. Robotic automation process
@@ -19,7 +19,7 @@
 8. Android App development
 9. Python scripting
 
-<h1>Programming languages:</h1>
+<h3>Programming languages:</h3>
 1. Python, Core JAVA
 2. Backend Framework python FastAPI
 3. Python Scrapy, splash, and selenium webdriver
@@ -28,15 +28,12 @@
 8. Eclipse RCP plugin development
 9. Database SQLLite, MySQL, and MongoDB
 
-<h1>Mobile Platforms:</h1>
+<h3>Mobile Platforms:</h3>
 1. Android
-
-<h1>Agile Methodology:</h1>
+<h3>Agile Methodology:</h3>
 1. Scrum
-
-<h1>Bug Tracking Tools:</h1>
+<h3>Bug Tracking Tools:</h3>
 1. Jira
-
-<h1>Version Control:</h1>
+<h3>Version Control:</h3>
 1. Git
 
