@@ -6,6 +6,7 @@ I'm having 10+ years of experience in IT MNC, and I do web, desktop and mobile a
 * HTML, CSS, JS
 * Java, Python
 * Android App development
+* Apache Kafka
 * Eclipse RCP plugin development
 * Python Scrapy, splash, and selenium webdriver
 * SQLlite, MongoDB, Mysql
