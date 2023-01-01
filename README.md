@@ -1,6 +1,6 @@
 
 # Imtiaz Khan
-I'm having 10+ years of experience in IT MNC, and I do web, desktop and mobile app Development. I really enjoy learning new languages and frameworks, as well as work in web automation and testing. I also enjoy python scripting and web scraping in general. 
+I'm having 10+ years of experience in IT MNC, and I do web, desktop and mobile app Development. I really enjoy learning new languages and frameworks, as well as work in web automation. I also enjoy python scripting and web scraping in general. 
 
 ## Skills and Experience
 * HTML, CSS, JS
