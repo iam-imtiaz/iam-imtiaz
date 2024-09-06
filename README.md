@@ -1,5 +1,5 @@
 
-# Imtiaz Khan
+# Imtiaz Khan - CPACC Web Accessibility Specialist
 I am an IAAP - CPACC certified Accessibility Expert dedicated to making the digital world more accessible. With hands-on experience using assistive tools such as JAWS, NVDA, VoiceOver, Narrator, TalkBack, I possess extensive knowledge of WCAG 2.2, Section 508, and ADA compliance standards. 
 
 ## Skills and Experience
