@@ -4,11 +4,17 @@ I am an IAAP - CPACC certified Accessibility Expert dedicated to making the digi
 
 ## Skills and Experience
 ✅  HTML, CSS, JS
+
 ✅  Accessibility audit and consulting for website or application
+
 ✅  Direct remediation development of website or application
+
 ✅  Document remediation (PDF, Forms, Word, Excel, PowerPoint, InDesign)
+
 ✅  VPAT (Voluntary Product Accessibility Template) Audit Report Certification
+
 ✅  Screen Readers: NVDA, JAWS, VoiceOver, and Google TalkBack
+
 ✅  Expertise in the following Accessibility standards:
   - WCAG (A, AA, AAA)
   - EN 301 549 (EU)
@@ -16,6 +22,7 @@ I am an IAAP - CPACC certified Accessibility Expert dedicated to making the digi
 
 ## Certifications
 ✅  CPACC - Certified Professionla In Accessibility Core Competence 
+
 ✅  DHS Trusted Tester Certification
 
 ## Tools
